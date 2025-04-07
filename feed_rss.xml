@@ -1,30 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech News</title>
     <link>https://www.technews.com</link>
     <description>Las últimas novedades tecnológicas</description>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 07 Apr 2025 10:00:00 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <atom:link href="https://cuper86.github.io/Tarea3/feed_rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>Lanzamiento del nuevo smartphone X100</title>
       <link>https://www.technews.com/smartphone-x100</link>
       <description>Descubre las características del X100, el nuevo buque insignia del mercado móvil.</description>
-      <pubDate>Mon, 01 Apr 2025 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>https://www.technews.com/smartphone-x100</guid>
     </item>
 
     <item>
       <title>Intel presenta su nueva generación de procesadores</title>
       <link>https://www.technews.com/intel-nueva-generacion</link>
       <description>Los nuevos chips prometen mayor eficiencia energética y rendimiento.</description>
-      <pubDate>Wed, 03 Apr 2025 12:30:00 +0000</pubDate>
+      <pubDate>Thu, 03 Apr 2025 12:30:00 +0000</pubDate>
+      <guid>https://www.technews.com/intel-nueva-generacion</guid>
     </item>
 
     <item>
       <title>Top 5 startups tecnológicas que debes seguir en 2025</title>
       <link>https://www.technews.com/startups-2025</link>
       <description>Una selección de las empresas emergentes más prometedoras en el ámbito tech.</description>
-      <pubDate>Sat, 06 Apr 2025 09:45:00 +0000</pubDate>
+      <pubDate>Sun, 06 Apr 2025 09:45:00 +0000</pubDate>
+      <guid>https://www.technews.com/startups-2025</guid>
     </item>
-
   </channel>
 </rss>
